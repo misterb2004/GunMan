@@ -847,3 +847,28 @@ LogInit: Object subsystem initialized
 [2018.10.24-00.17.07:145][ 66]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPersonBP/Blueprints/Enemy]
 [2018.10.24-00.17.07:186][ 66]LogSavePackage: Moving '../../../../../../Users/Student.SutterPeak14-HP/Documents/Unreal Projects/GunMan/Saved/Enemy_Auto63193108C4850BA4BB8D90DB67039110D.tmp' to '../../../../../../Users/Student.SutterPeak14-HP/Documents/Unreal Projects/GunMan/Saved/Autosaves/Game/ThirdPersonBP/Blueprints/Enemy_Auto6.uasset'
 [2018.10.24-00.17.07:187][ 66]LogFileHelpers: Auto-saving content packages took 0.244
+[2018.10.24-00.31.21:743][971]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap' took 0.116
+[2018.10.24-00.31.21:746][971]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/ThirdPersonBP/Blueprints/Enemy] ([1] browsable assets)...
+[2018.10.24-00.31.21:777][971]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/ThirdPersonBP/Blueprints/Enemy.Enemy]
+[2018.10.24-00.31.21:777][971]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPersonBP/Blueprints/Enemy]
+[2018.10.24-00.31.21:875][971]LogSavePackage: Moving '../../../../../../Users/Student.SutterPeak14-HP/Documents/Unreal Projects/GunMan/Saved/Enemy_Auto724655D3C403E781391B34AA08FBFE04D.tmp' to '../../../../../../Users/Student.SutterPeak14-HP/Documents/Unreal Projects/GunMan/Saved/Autosaves/Game/ThirdPersonBP/Blueprints/Enemy_Auto7.uasset'
+[2018.10.24-00.31.21:900][971]LogFileHelpers: Auto-saving content packages took 0.156
+[2018.10.25-19.22.10:833][734]LogHttp: Warning: 000000006F7E8E00: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2018.10.25-19.22.10:833][734]LogHttp: Warning: 000000006F7E8E00: libcurl info message cache 0 (Connection 42 seems to be dead!)
+[2018.10.25-19.22.10:833][734]LogHttp: Warning: 000000006F7E8E00: libcurl info message cache 1 (Closing connection 42)
+[2018.10.25-19.22.10:833][734]LogHttp: Warning: 000000006F7E8E00: libcurl info message cache 2 (Could not resolve host: datarouter.ol.epicgames.com)
+[2018.10.25-19.22.10:833][734]LogHttp: Warning: 000000006F7E8E00: libcurl info message cache 3 (Closing connection 43)
+[2018.10.25-19.22.37:181][937]BlueprintLog: New page: Compile Enemy
+[2018.10.25-19.22.56:496][101]LogSavePackage: Moving '../../../../../../Users/Student.SutterPeak14-HP/Documents/Unreal Projects/GunMan/Saved/ThirdPersonExampleMap58EDEAD24811EE08C47232B51DD8FC03.tmp' to '../../../../../../Users/Student.SutterPeak14-HP/Documents/Unreal Projects/GunMan/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap'
+[2018.10.25-19.22.58:792][101]LogSavePackage: Moving '../../../../../../Users/Student.SutterPeak14-HP/Documents/Unreal Projects/GunMan/Saved/ThirdPersonExampleMap_BuiltData9418D8B94C77767A43D86EA292DFDA3A.tmp' to '../../../../../../Users/Student.SutterPeak14-HP/Documents/Unreal Projects/GunMan/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.uasset'
+[2018.10.25-19.23.10:098][422]LogSavePackage: Moving '../../../../../../Users/Student.SutterPeak14-HP/Documents/Unreal Projects/GunMan/Saved/ThirdPersonExampleMapB18DDF884A1A75C1E7DC3DB25AC48EA9.tmp' to '../../../../../../Users/Student.SutterPeak14-HP/Documents/Unreal Projects/GunMan/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap'
+[2018.10.25-19.23.10:907][422]LogSavePackage: Moving '../../../../../../Users/Student.SutterPeak14-HP/Documents/Unreal Projects/GunMan/Saved/ThirdPersonExampleMap_BuiltData53DB898F48C6A96F007F01A816B9FFE3.tmp' to '../../../../../../Users/Student.SutterPeak14-HP/Documents/Unreal Projects/GunMan/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.uasset'
+[2018.10.25-19.23.20:403][644]LogSlate: Window 'Save Content' being destroyed
+[2018.10.25-19.23.20:592][644]LogSavePackage: Moving '../../../../../../Users/Student.SutterPeak14-HP/Documents/Unreal Projects/GunMan/Saved/Enemy91424A0642D8296E8CB0058673FA2502.tmp' to '../../../../../../Users/Student.SutterPeak14-HP/Documents/Unreal Projects/GunMan/Content/ThirdPersonBP/Blueprints/Enemy.uasset'
+[2018.10.25-19.23.20:635][644]LogSavePackage: Moving '../../../../../../Users/Student.SutterPeak14-HP/Documents/Unreal Projects/GunMan/Saved/Player7706E1A04F939A507CD1BEA20537426B.tmp' to '../../../../../../Users/Student.SutterPeak14-HP/Documents/Unreal Projects/GunMan/Content/ThirdPersonBP/Blueprints/Player.uasset'
+[2018.10.25-19.23.20:784][644]LogSavePackage: Moving '../../../../../../Users/Student.SutterPeak14-HP/Documents/Unreal Projects/GunMan/Saved/ThirdPersonCharacter22705A214305350A70CA4C90EFBF83FF.tmp' to '../../../../../../Users/Student.SutterPeak14-HP/Documents/Unreal Projects/GunMan/Content/ThirdPersonBP/Blueprints/ThirdPersonCharacter.uasset'
+[2018.10.25-19.23.20:806][644]LogSavePackage: Moving '../../../../../../Users/Student.SutterPeak14-HP/Documents/Unreal Projects/GunMan/Saved/ThirdPersonGameMode1CAC1ABA4D36EB601490F296BF33F75B.tmp' to '../../../../../../Users/Student.SutterPeak14-HP/Documents/Unreal Projects/GunMan/Content/ThirdPersonBP/Blueprints/ThirdPersonGameMode.uasset'
+[2018.10.25-19.23.21:518][644]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2018.10.25-19.23.21:693][644]LogSlate: Window 'GunMan - Unreal Editor' being destroyed
+[2018.10.25-19.23.26:415][645]Cmd: QUIT_EDITOR
+[2018.10.25-19.23.44:115][645]LogExit: Preparing to exit.
